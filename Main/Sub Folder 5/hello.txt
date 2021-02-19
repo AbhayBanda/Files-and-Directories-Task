@@ -1,0 +1,4 @@
+A DPS file is a presentation created by Kingsoft Presentation, 
+a slideshow creation program included with the WPS Office suite. 
+It contains a collection of slides, which often include a title slide 
+followed by content slides that may include text, images, video, audio, and shapes.
